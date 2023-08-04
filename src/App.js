@@ -11,7 +11,7 @@ export class App extends React.Component {
     super(props)
 
     this.state = {
-      serverURL: 'beta.meet.jit.si',
+      serverURL: 'meet.jit.si',
       roomId: 'franktest',
       selectedSpeakerDeviceId: '',
       defaultMicId: '',

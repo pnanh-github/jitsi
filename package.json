@@ -1,7 +1,7 @@
 {
   "name": "telimedemo",
   "version": "0.1.0",
-  "homepage": "https://fpw23.github.io/telimed/",
+  "homepage": "https://jitsi-zeta.vercel.app/",
   "private": true,
 "engines": {
   "node": "16.x"
