@@ -2,10 +2,10 @@
 
 const options = {
     hosts: {
-        domain: 'jitsi-meet.example.com',
-        muc: 'conference.jitsi-meet.example.com'
+        domain: 'meet.jit.si',
+        muc: 'conference.meet.jit.si'
     },
-    bosh: '//jitsi-meet.example.com/http-bind'
+    bosh: '//meet.jit.si/http-bind'
 };
 
 const confOptions = {
